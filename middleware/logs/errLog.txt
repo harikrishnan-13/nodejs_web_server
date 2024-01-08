@@ -1,0 +1,6 @@
+20240108	10:10:28	0d444127-e608-47fc-a0bb-d521e9fdac87	Error:Not allowed by cors
+20240108	10:11:01	f32b4439-3e19-406e-9cd1-ad56d56ce77c	Error:Not allowed by cors
+20240108	10:11:01	71bdb826-5e0a-4798-8c95-138af9a1114e	Error:Not allowed by cors
+20240108	10:11:38	962c5e22-f085-4e26-89c7-5e8d9c811dc7	Error:Not allowed by cors
+20240108	10:11:38	4a0b06ac-faa9-43cb-89d5-6803932815e2	Error:Not allowed by cors
+20240108	10:25:49	3f75343b-4bc4-4c21-9391-24381663dbda	TypeError:res.accepts is not a function
